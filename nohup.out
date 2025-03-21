@@ -1,0 +1,5 @@
+python: can't open file '/share/project/gsai/uiji/dummy.pu': [Errno 2] No such file or directory
+Starting dummy process on cuda:0
+Starting dummy process on cuda:1
+Starting dummy process on cuda:2
+Starting dummy process on cuda:3
